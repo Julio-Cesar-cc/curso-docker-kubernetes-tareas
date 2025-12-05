@@ -11,3 +11,4 @@ Este repositorio contiene la resolución de las tareas del curso de Docker & Kub
 ## Índice de Tareas
  
 - [Clase 1: Introducción a Containers y Docker](clase1/)
+- [Proyecto Final: Proyecto Final - Curso Docker & Kubernetes](proyecto_final_docker_kebernetes/)
