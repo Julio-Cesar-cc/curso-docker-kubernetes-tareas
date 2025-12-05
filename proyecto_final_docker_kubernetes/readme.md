@@ -45,7 +45,27 @@ microk8s enable metrics-server
 
 
 ---
+## 2. Proyecto v2.0 funcionando en el cluster
+
+Ante de configurar el proyecto integrador se procede a verificar requisitos previos
+
+### . Verificar que microk8s esté corriendo
+
+```bash
+microk8s status
+```
+
+### . Verificar conectividad del cluster
+
+```bash
+microk8s kubectl cluster-info
+```
+
+con las respuestas esperadas se procede con el punto 8, ya que los puntos 2,3,4,5,6,7 se realizaron en el anterior paso 
+
+### 8. Preparar las Imágenes Docker - Importar imágenes desde Docker local
+
+![Container creado](setup_ambiente/screenshots/part1_img2.png)
+
 
 ---
-
-¡Éxito en el proyecto final!
