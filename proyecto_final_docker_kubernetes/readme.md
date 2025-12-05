@@ -167,5 +167,25 @@ kubectl apply -f 05-backend/api-hpa.yaml
 
 Se adjunta capturas del equipo levantado juntamente con la terminal
 
+**Screenshot: **
+
+![Container creado](setup_ambiente/screenshots/part1_img20.png)
+---
+
+
+**Nota lastimosamente no se pudo continuar con los demas puntos debido a que el repositorio alefiego ya no es publico y 
+ya no se pudo continuar con los siguientes pasos del proyecto.
+
+**Screenshot: **
+
+![Container creado](setup_ambiente/screenshots/part1_img21.png)
+
+**Screenshot: **
+
+![Container creado](setup_ambiente/screenshots/part1_img22.png)
+
+---
+
+
 
 
